@@ -81,6 +81,9 @@
     "intersection-observer": "^0.5.1",
     "lodash.throttle": "^4.1.1"
   },
+  "resolutions": {
+    "rc-table": "^7.0.0-alpha.2"
+  },
   "devDependencies": {
     "@babel/cli": "^7.0.0",
     "@babel/core": "^7.0.0",
